@@ -1,0 +1,13 @@
+body {
+    background-color: #f5f7fa;
+  }
+  
+  .btn-danger {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-danger:hover {
+    background-color: #ff4c4c;
+    box-shadow: 0 5px 10px rgba(255, 76, 76, 0.2);
+  }
+  
